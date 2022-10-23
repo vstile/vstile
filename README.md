@@ -21,6 +21,7 @@ So... I can code but don't offer me jobs as a coder. I don't want to work as a c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📮 Get In Touch
+- Portfolio: https://linktr.ee/vstile
 - Medium: https://medium.com/@vstile
 - LinkedIn: https://www.linkedin.com/in/vittoriostile/
 - Bēhance: https://www.behance.net/vittoriostile
