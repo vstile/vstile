@@ -8,7 +8,7 @@ I am an amateur writer. I enjoy learning and writing about tech and innovation (
 
 <a target="_blank" href="https://medium.com/@vstile"><img src="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Visit my Medium profile" width="300"></a>
 
-## 📝 Book a Session with Me &mdash; [@vstile](https://tealfeed.com/vstile/connect)
+## 👨‍🏫 Book a Session with Me &mdash; [@vstile](https://tealfeed.com/vstile/connect)
 Book a paid consultancy session with me. I offer a variety of services including startup services, business development analysis and detailed quote, product design and User Experience review for your already launched product.
 
 <a target="_blank" href="https://tealfeed.com/vstile/connect"><img src="https://framerusercontent.com/images/GXr3tMRCxakFJ2ZIcC2WvdA1OU.png" alt="Book a Session with Me" width="300"></a>
