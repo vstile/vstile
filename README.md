@@ -6,7 +6,7 @@ I am Vittorio Stile, Chartered Engineer, Ph.D. Fellow, M.Sc. "Cum Laude" in Busi
 ## 📝 Medium Writer &mdash; [@vstile](https://medium.com/@vstile)
 I am an amateur writer. I enjoy learning and writing about tech and innovation (but not limited to) and sharing my experiences as Engineer. Check out my latest articles!
 
-<a target="_blank" href="https://medium.com/@vstile"><img src="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Medium profile"></a>
+<a target="_blank" href="https://medium.com/@vstile"><img src="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Visit my Medium profile" width="400"></a>
 
 ## 👨‍💻 Coding... just for fun!
 I am a certified iOS developer from the Apple Developer Academy of Napoli, I like to read and learn about the latest technologies and frameworks in order to better collaborate, as UX Designer, with the development team. I can help the team on front-end development in Xcode, I can develop FileMaker projects starting from scratch and I know the basics of C programming. 
