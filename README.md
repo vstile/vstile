@@ -13,6 +13,11 @@ I am a certified iOS developer from the Apple Developer Academy of Napoli, I lik
 
 So... I can code but don't offer me jobs as a coder. I don't want to work as a coder, I do it for passion and for fun and I prefer to leave it to others who do it better than me.
 
+## 📝 Book a Session with Me &mdash; [@vstile](https://tealfeed.com/vstile/connect)
+Book a paid consultancy session with me. I offer a variety of services including startup services, business development analysis and detailed quote, product design and User Experience review for your already launched product.
+
+<a target="_blank" href="https://tealfeed.com/vstile/connect"><img src="https://framerusercontent.com/images/GXr3tMRCxakFJ2ZIcC2WvdA1OU.png" alt="Book a Session with Me" width="400"></a>
+
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=vstile&show_icons=true&hide=stars)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
