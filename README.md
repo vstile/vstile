@@ -27,6 +27,7 @@ Book a paid consultancy session with me. I offer a variety of services including
 - LinkedIn: https://www.linkedin.com/in/vittoriostile/
 - Bēhance: https://www.behance.net/vittoriostile
 - Twitter: https://twitter.com/vittoriostile
+- Tealfeed: https://tealfeed.com/vstile/connect
 
 <!--
 **vstile/vstile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
