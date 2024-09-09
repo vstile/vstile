@@ -13,7 +13,7 @@ Book a paid consultancy session with me. I offer a variety of services including
 
 <a target="_blank" href="https://tealfeed.com/vstile/connect"><img src="https://framerusercontent.com/images/GXr3tMRCxakFJ2ZIcC2WvdA1OU.png" alt="Book a Session with Me" width="300"></a>
 
-## 👨‍💻 Coding... just for fun!
+## 👨‍💻 Coding... but I am not a coder!
 I am a certified iOS developer from the Apple Developer Academy of Napoli, I like to read and learn about the latest technologies and frameworks in order to better collaborate, as Product Manager & UX Designer, with the development team. I can help the team on front-end development in Xcode, I can develop FileMaker projects starting from scratch and I know the basics of C programming. 
 
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=vstile&show_icons=true&hide=stars)-->
