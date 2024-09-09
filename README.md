@@ -19,7 +19,7 @@ I am a certified iOS developer from the Apple Developer Academy of Napoli, I lik
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=vstile&show_icons=true&hide=stars)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-So... I can code but don't offer me jobs as a coder. I don't want to work as a coder, I do it for passion and for fun and I prefer to leave it to others who do it better than me.
+So... I can code but don't offer me jobs as a coder. I don't want to work as a coder, I do it for passion and for academic/research purposes.
 
 ## 📮 Get In Touch
 - Portfolio: https://linktr.ee/vstile
