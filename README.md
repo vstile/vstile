@@ -1,7 +1,9 @@
 # Vittorio Stile &mdash; @vstile
 
 ## 😎 About Me
-I am Vittorio Stile, Chartered Engineer, Ph.D. Fellow, M.Sc. "Cum Laude" in Business Engineering and B.Sc. in Industrial Engineering. I work mainly as Innovation Manager, Product Manager, UX Designer with focus on User Experience for Mobile Devices and Human-Machine Interface. I also work as professor for the Industry 4.0 teaching mainly Human-Machine Interaction and Blockchain.
+Hey there! I’m Vittorio Stile, a Chartered Engineer and a massive IT enthusiast. I’ve got a Ph.D. in the works, an M.Sc. in Business Engineering "Cum Laude," and a B.Sc. in Industrial Engineering under my belt. I spend my days juggling roles as an Innovation Manager, Product Manager, and UX Designer, with a keen focus on making mobile devices and human-machine interfaces as user-friendly as possible. Besides all that techy stuff, I teach courses on Industry 4.0, diving deep into Human-Machine Interaction and Blockchain. 
+
+What really revs my engine? Innovating and optimizing every sector I touch. I’m all about building lasting, win-win partnerships with the companies I work with—not just racking up a long list of clients. Let’s make something great together!
 
 ## 📝 Medium Writer &mdash; [@vstile](https://medium.com/@vstile)
 I am an amateur writer. I enjoy learning and writing about tech and innovation (but not limited to) and sharing my experiences as Engineer. Check out my latest articles!
@@ -9,7 +11,15 @@ I am an amateur writer. I enjoy learning and writing about tech and innovation (
 <a target="_blank" href="https://medium.com/@vstile"><img src="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Visit my Medium profile" width="300"></a>
 
 ## 👨‍🏫 Book a Session with Me &mdash; [@vstile](https://tealfeed.com/vstile/connect)
-Book a paid consultancy session with me. I offer a variety of services including startup services, business development analysis and detailed quote, product design and User Experience review for your already launched product.
+Book a paid consultancy session with me. With over 20 years of experience in the industry, I offer a diverse range of engineering services within digital innovation. My expertise includes providing advice for startup launches, securing funding and grants for entrepreneurship, conducting Product Design audits for digital products, and specializing in User Experience Design for websites and mobile applications. Additionally, I offer services in business process reorganization, corporate security, patent development, and the design of molds for plastic materials.
+
+My qualifications include:
+• Registered Engineer (Industrial Sector, ID No. 23605)
+• Innovation Manager (Unioncamere list, ID No. 755)
+• Master of Science in Management Engineering with Honors (LM-31)
+• Bachelor of Science in Industrial Engineering (L-9)
+• Certified iOS Developer at Apple Developer Academy
+• Forensic IT Expert registered with the court of Torre Annunziata
 
 <a target="_blank" href="https://tealfeed.com/vstile/connect"><img src="https://framerusercontent.com/images/GXr3tMRCxakFJ2ZIcC2WvdA1OU.png" alt="Book a Session with Me" width="300"></a>
 
