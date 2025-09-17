@@ -38,7 +38,7 @@ So... I can code but don't offer me jobs as a coder. I don't want to work as a c
 - Medium: https://medium.com/@vstile
 - LinkedIn: https://www.linkedin.com/in/vittoriostile/
 - Bēhance: https://www.behance.net/vittoriostile
-- Twitter: https://twitter.com/vittoriostile
+- X (former Twitter): https://x.com/vittoriostile
 - Tealfeed: https://tealfeed.com/vstile/connect
 
 <!--
