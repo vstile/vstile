@@ -29,8 +29,7 @@ I am a certified iOS developer from the Apple Developer Academy of Napoli. I enj
 I also use Python for DeepFake detection projects in Computer Vision, mainly working on Jupyter Notebooks in Visual Studio Code. For me, the language is not the key point — the goal is. I do not consider myself a programmer, but I always keep up with the latest trends, frameworks, and tools, and if I need to implement even complex tasks (API configuration, JSON handling, ML models, or R code for data science), I can manage them without problems.
 
 <!--![github stats](https://github-readme-stats.vercel.app/api?username=vstile&show_icons=true&hide=stars)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vstile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=vstile)](https://github.com/anuraghazra/github-readme-stats)
 So... I can code but don't offer me jobs as a coder. I don't want to work as a coder, I do it for passion and for academic/research purposes.
 
 ## 📮 Get In Touch
