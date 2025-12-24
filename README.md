@@ -3,6 +3,8 @@
 ## 😎 About Me
 Hey there! I’m Vittorio Stile, a Chartered Engineer and a massive IT enthusiast. I’ve got a Ph.D. in the works, an M.Sc. in Business Engineering "Cum Laude," and a B.Sc. in Industrial Engineering under my belt. I spend my days juggling roles as an Innovation Manager, Product Manager, and UX Designer, with a keen focus on making mobile devices and human-machine interfaces as user-friendly as possible. Besides all that techy stuff, I teach courses on Industry 4.0, diving deep into Human-Machine Interaction and Blockchain. 
 
+I work at the intersection of applied AI, education, and human centered systems, with a strong focus on reproducible research and clear documentation.
+
 What really revs my engine? Innovating and optimizing every sector I touch. I’m all about building lasting, win-win partnerships with the companies I work with—not just racking up a long list of clients. Let’s make something great together!
 
 ## 📝 Medium Writer &mdash; [@vstile](https://medium.com/@vstile)
@@ -14,12 +16,14 @@ I am an amateur writer. I enjoy learning and writing about tech and innovation (
 Book a paid consultancy session with me. With over 20 years of experience in the industry, I offer a diverse range of engineering services within digital innovation. My expertise includes providing advice for startup launches, securing funding and grants for entrepreneurship, conducting Product Design audits for digital products, and specializing in User Experience Design for websites and mobile applications. Additionally, I offer services in business process reorganization, corporate security, patent development, and the design of molds for plastic materials.
 
 My qualifications include:
-• Registered Engineer (Industrial Sector, ID No. 23605)
-• Innovation Manager (Unioncamere list, ID No. 755)
-• Master of Science in Management Engineering with Honors (LM-31)
-• Bachelor of Science in Industrial Engineering (L-9)
-• Certified iOS Developer at Apple Developer Academy
-• Forensic IT Expert registered with the court of Torre Annunziata
+* Registered Engineer (Industrial Sector, ID No. 23605)
+* Innovation Manager (Unioncamere list, ID No. 755)
+* IEEE Senior Member (ID No. 97919001)
+* PhD Fellow in Big Data and Artificial Intelligence
+* Master of Science in Management Engineering with Honors (LM-31)
+* Bachelor of Science in Industrial Engineering (L-9)
+* Certified iOS Developer at Apple Developer Academy
+* Forensic IT Expert
 
 <a target="_blank" href="https://tealfeed.com/vstile/connect"><img src="https://framerusercontent.com/images/GXr3tMRCxakFJ2ZIcC2WvdA1OU.png" alt="Book a Session with Me" width="300"></a>
 
@@ -32,6 +36,18 @@ I also use Python for DeepFake detection projects in Computer Vision, mainly wor
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=vstile)](https://github.com/anuraghazra/github-readme-stats)
 
 So... I can code but don't offer me jobs as a coder. I don't want to work as a coder, I do it for passion and for academic/research purposes.
+
+## What you’ll find here
+- **Deepfake detection research**: attribute aware pipelines, bias and error analysis, and replication ready notebooks (see `deepfake-attribute-detection`).  
+- **Literature review tooling**: an end to end protocol and datasets for a deepfake detection PhD review, including query sets and de duplication workflow (see `00-deepfake-detection-review`).
+- **Teaching and demos**: compact CNN baselines and classic datasets such as MNIST and AT&T/Olivetti, designed to be easy to run and explain (`01-binary-classification`, `02-digit-classification-mnist`, `03-face-classification-olivetti` and `04-deepfake-detection`). 
+- **Applied data workflows**: notebooks and scripts for education and ML analysis (`2025edu4ai`).
+
+## Tech stack
+`Python`, `Jupyter`, `TensorFlow`/`Keras`, `OpenCV`, `scikit learn`, `Swift`, `C`, and `LaTeX` for research writing.
+
+## Collaboration
+I’m happy to connect with researchers and educators working on trustworthy AI, computer vision, and reproducible ML experiments.
 
 ## 📮 Get In Touch
 - Portfolio: https://linktr.ee/vstile
