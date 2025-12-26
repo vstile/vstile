@@ -10,7 +10,7 @@ What really revs my engine? Innovating and optimizing every sector I touch. I’
 ## 📝 Medium Writer &mdash; [@vstile](https://medium.com/@vstile)
 I am an amateur writer. I enjoy learning and writing about tech and innovation (but not limited to) and sharing my experiences as Engineer. Check out my latest articles!
 
-<a target="_blank" href="https://medium.com/@vstile"><img src="https://theme.zdassets.com/theme_assets/224203/4a55138e21ad44a9c72c8295181c79fe938a2ae6.svg" alt="Visit my Medium profile" width="300"></a>
+<a target="_blank" href="https://medium.com/@vstile"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="Visit my Medium profile" width="300"></a>
 
 ## 👨‍🏫 Book a Session with Me &mdash; [@vstile](https://tealfeed.com/vstile/connect)
 Book a paid consultancy session with me. With over 20 years of experience in the industry, I offer a diverse range of engineering services within digital innovation. My expertise includes providing advice for startup launches, securing funding and grants for entrepreneurship, conducting Product Design audits for digital products, and specializing in User Experience Design for websites and mobile applications. Additionally, I offer services in business process reorganization, corporate security, patent development, and the design of molds for plastic materials.
