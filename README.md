@@ -1,9 +1,9 @@
 # Vittorio Stile &mdash; @vstile
 
 ## 😎 About Me
-Hey there! I’m Vittorio Stile, a Chartered Engineer and a massive IT enthusiast. I’ve got a Ph.D. in the works, an M.Sc. in Business Engineering "Cum Laude," and a B.Sc. in Industrial Engineering under my belt. I spend my days juggling roles as an Innovation Manager, Product Manager, and UX Designer, with a keen focus on making mobile devices and human-machine interfaces as user-friendly as possible. Besides all that techy stuff, I teach courses on Industry 4.0, diving deep into Human-Machine Interaction and Blockchain. 
+Hey there! I’m Vittorio Stile, a Chartered Engineer and a massive IT enthusiast. I’ve got a Ph.D. in Big Data and Artificial Intelligence, grade “Excellent” (top tier of 4-level scale), with a research thesis titled AI-generated Deepfakes: Detection and Bias Analysis” at Mercatorum University, an M.Sc. in Business Engineering "Cum Laude," and a B.Sc. in Industrial Engineering under my belt. I spend my days juggling roles as an Innovation Manager, Product Manager, and UX Designer, with a keen focus on making mobile devices and human-machine interfaces as user-friendly as possible. Besides all that techy stuff, I teach courses on Industry 4.0, diving deep into Human-Machine Interaction and Blockchain. 
 
-I work at the intersection of applied AI, education, and human centered systems, with a strong focus on reproducible research and clear documentation.
+I work at the intersection of applied AI, education, human centered systems and management, with a strong focus on reproducible research and clear documentation.
 
 What really revs my engine? Innovating and optimizing every sector I touch. I’m all about building lasting, win-win partnerships with the companies I work with—not just racking up a long list of clients. Let’s make something great together!
 
@@ -16,10 +16,10 @@ I am an amateur writer. I enjoy learning and writing about tech and innovation (
 Book a paid consultancy session with me. With over 20 years of experience in the industry, I offer a diverse range of engineering services within digital innovation. My expertise includes providing advice for startup launches, securing funding and grants for entrepreneurship, conducting Product Design audits for digital products, and specializing in User Experience Design for websites and mobile applications. Additionally, I offer services in business process reorganization, corporate security, patent development, and the design of molds for plastic materials.
 
 My qualifications include:
+* PhD in Big Data and Artificial Intelligence
 * Registered Engineer (Industrial Sector, ID No. 23605)
-* Innovation Manager (Unioncamere list, ID No. 755)
 * IEEE Senior Member (ID No. 97919001)
-* PhD Fellow in Big Data and Artificial Intelligence
+* Innovation Manager (Unioncamere list, ID No. 755)
 * Master of Science in Management Engineering with Honors (LM-31)
 * Bachelor of Science in Industrial Engineering (L-9)
 * Certified iOS Developer at Apple Developer Academy
